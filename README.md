@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uzumak098
 - 👀 I’m interested in LEARNING PROGRAMMING LANGUAGE
-- 🌱 I’m currently learning ENGLISH
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pedroaugusto.uzumak36@gmail.com
 - 😄 Pronouns: ...
