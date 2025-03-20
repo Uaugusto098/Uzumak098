@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Uzumak098
+- 👋 Hi, I’m @Pedro_augusto
 - 👀 I’m interested in LEARNING PROGRAMMING LANGUAGE
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
